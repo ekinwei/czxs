@@ -1,0 +1,51 @@
+@charset "utf-8";
+/*
+ * 在中国
+ */
+
+/* banner */
+.top_banner{ background: url("../../images/at/1.jpg") no-repeat center top; height: 425px}
+
+/*正文*/
+.content_pg{ padding: 40px 0 65px 0;}
+.content_pg .tit{ margin-bottom: 50px; text-align: center}
+.content_pg dl{ margin-bottom: 10px; padding: 0 30px; overflow: hidden; zoom: 1}
+.content_pg dt{ padding-top: 20px; float: left; width: 130px; font-size: 18px;}
+.content_pg dd{ float: left; width: 880px;}
+.content_pg dd a{ display: inline-block; width: 204px; margin-top: 10px; margin-right: 10px;}
+.content_pg dd img:hover{ filter:alpha(opacity=80); opacity: 0.8}
+
+body .my_layer{ background: none; box-shadow: none}
+.logo_main .left_meun{ float: left; padding-right: 10px;}
+.logo_main .left_meun a{ display: block; background: #323232; width: 190px; height: 50px; margin-bottom: 5px; line-height: 50px; color: #fff; text-align: center}
+.logo_main .left_meun a:hover{ background: #2d2d2d}
+.logo_main .left_meun .cur{ background: #f76540;}
+.logo_main .center_bd{ position: relative; float: left; }
+.logo_main .close{ position: absolute; background: url("../../images/com/layer.png") no-repeat; width: 76px; height: 49px; right: -76px; top: 0; cursor: pointer z-index: 9999}
+
+
+.gallery{ width: 825px; height: 488px;}
+.gallery img{ display: block; width: 825px; height: 488px;}
+
+.swiper-button-next,.swiper-button-prev{ background: url("../../images/com/layer.png") no-repeat; width: 76px; height: 49px; top: 514px;}
+.swiper-button-next{ background-position: -167px 0; right: 0;}
+.swiper-button-prev{ background-position: -87px 0; left: auto; right: 78px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

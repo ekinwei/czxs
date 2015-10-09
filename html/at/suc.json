@@ -1,0 +1,26 @@
+{
+    "1_1": {
+        "item": [
+            {
+                "name": "广州番禺万达",
+                "pic": ["../../assets/images/local/a.jpg","../../assets/images/local/v.jpg"]
+            },
+            {
+                "name": "广州萝岗万达",
+                "pic": ["../../assets/images/local/a3.jpg","../../assets/images/local/a2.jpg","../../assets/images/local/a4.jpg","../../assets/images/local/a1.jpg"]
+            },
+            {
+                "name": "深圳福田万达",
+                "pic": ["../../assets/images/local/a4.jpg","../../assets/images/local/a1.jpg"]
+            }
+        ]
+    },
+    "1_2": {
+        "item": [
+            {
+                "name": "广州番禺万达",
+                "pic": ["../../assets/images/local/a.jpg","../../assets/images/local/v.jpg"]
+            }
+        ]
+    }
+}
